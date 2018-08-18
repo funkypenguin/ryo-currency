@@ -11,6 +11,7 @@ RUN apt-get update && \
         ca-certificates \
         cmake \
         g++ \
+        bzip2 \
         make \
         pkg-config \
         graphviz \
