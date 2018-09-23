@@ -9,7 +9,7 @@
 
 # Contents
 
-1. [What is funkypenguin/ryo-currency?](##what-is-funkypenguinryo-currency)
+1. [What is funkypenguin/ryo-currency?](#what-is-funkypenguin-ryo-currency)
 2. [Why should I use this?](#why-should-i-use-this)
 3. [How do I use it?](#how-do-i-use-this)
 4. [CHANGELOG](#changelog)
