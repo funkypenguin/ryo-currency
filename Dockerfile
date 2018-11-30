@@ -3,7 +3,7 @@
 # builder stage
 FROM debian:9 as builder
 
-ARG BRANCH=0.3.0.0
+ARG BRANCH=0.3.2.0
 ENV BRANCH=${BRANCH}
 
 RUN apt-get update && \
